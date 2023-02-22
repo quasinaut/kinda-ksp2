@@ -27,7 +27,7 @@ Add your game instance, either where steam installed it by right clicking on the
 
 ### Setup and install
 
-Go to settings->compatible game versions and select all versions down to 1.10
+Go to settings->compatible game versions and select all versions down to 1.3
 Go to file->install from .ckan and select the file in this repo
 
 There's corruption in the zipped build of extraplanetary launchpads that makes CKAN unable to install it, instead download the zip from <http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.3.zip> and skip the corrupted file when you unzip
