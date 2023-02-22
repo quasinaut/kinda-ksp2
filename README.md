@@ -50,7 +50,3 @@ Note:
 
 1. I did not include Interstellar Extended because it was older, not compatible with far future tech, and I think far future tech looks cool. Although I would like to see a Daedalus project type engine, though I know the developer said they were overrated they do look epic.
 2. This is not meant to be a full list of everything you need, please submit a pull request to improve it.
-
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>  
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
