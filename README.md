@@ -17,7 +17,9 @@ The hope is that this repo will become obsolete in the near future. In the meanw
 
 ### Prerequisites
 
-If you don't already have CKAN, download it here <https://github.com/KSP-CKAN/CKAN/releases>
+If you don't already have CKAN, download it [here](https://github.com/KSP-CKAN/CKAN/releases).
+
+This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work on Linux (for example Parallax), and LMP Server is only built for Windows.
 
 ### Add your game instance
 
@@ -31,7 +33,13 @@ Go to file->install from .ckan and select the file in this repo
 There's corruption in the zipped build of extraplanetary launchpads that makes CKAN unable to install it, instead download the zip from <http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.3.zip> and skip the corrupted file when you unzip
 Then copy+paste it into the GameData directory under your KSP installation
 
-## Optional: installing the flag
+### Optional: multiplayer
+
+DISCLAIMER: I have not tested this and have no idea how it works with so many mods but it's here if you want to give it a go. [Here](https://github.com/LunaMultiplayer/LunaMultiplayer/wiki/Mod-support) is some info on mod support.
+
+Follow the instructions [here](https://github.com/LunaMultiplayer/LunaMultiplayer/wiki/How-to-install-LMP) for client and server setup. Make sure whoever you are playing with also has followed the instructions in this repo otherwise it will not work.
+
+### Optional: installing the flag
 
 Put [this](flag/underconstruction.png) flag in your KSP(2) directory under GameData->Squad->Flags
 
@@ -48,5 +56,5 @@ TODOs:
 
 Note:
 
-1. I did not include Interstellar Extended because it was older, not compatible with far future tech, and I think far future tech looks cool. Although I would like to see a Daedalus project type engine, though I know the developer said they were overrated they do look epic.
+1. I did not include Interstellar Extended because it was older, not compatible with far future tech, and I think far future tech looks cooler. Although I would like to see a Daedalus Project type engine, though I know the developer said they were overrated they do look epic.
 2. This is not meant to be a full list of everything you need, please submit a pull request to improve it.
