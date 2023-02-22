@@ -46,7 +46,7 @@ TODOs:
 - [ ] Make more mods to replicate the features of KSP2 as close as possible/we want to (like paint jobs, if that is even possible)
 - [ ] More screenshots of what KSP1 can be (I used [this](https://youtu.be/xlrgSH9JIp0) video for ideas)
 
-Note: 
+Note:
 
 1. I did not include Interstellar Extended because it was older, not compatible with far future tech, and I think far future tech looks cool. Although I would like to see a Daedalus project type engine, though I know the developer said they were overrated they do look epic.
 2. This is not meant to be a full list of everything you need, please submit a pull request to improve it.
