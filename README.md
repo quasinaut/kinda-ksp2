@@ -19,7 +19,7 @@ The hope is that this repo will become obsolete in the near future. In the meanw
 
 If you don't already have CKAN, download it [here](https://github.com/KSP-CKAN/CKAN/releases).
 
-This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work on Linux (for example Parallax), and LMP Server is only built for Windows.
+This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work on Linux (for example Parallax).
 
 ### Add your game instance
 
