@@ -1,12 +1,12 @@
 {
     "spec_version": "v1.18",
-    "identifier": "installed-Kerbal-Space-Program-2",
-    "name": "Kinda Kerbal Space Program 2",
-    "abstract": "A list of mods that will attempt to make KSP1 resemble the end of the early access road map promised version of KSP2 as near as possible.",
+    "identifier": "installed-Kerbal-Space-Program-Too",
+    "name": "installed-Kerbal Space Program Too",
+    "abstract": "A list of modules installed on the Kerbal Space Program Too KSP instance",
     "author": [
         "qn"
     ],
-    "version": "2023.02.24.02.12.55",
+    "version": "2023.02.26.09.55.22",
     "ksp_version_min": "1.3",
     "ksp_version_max": "1.12",
     "license": [
@@ -263,6 +263,9 @@
             "name": "PreciseNode"
         },
         {
+            "name": "ProceduralDynamics"
+        },
+        {
             "name": "ReStock"
         },
         {
@@ -335,6 +338,6 @@
             "name": "xScienceContinued"
         }
     ],
-    "release_date": "2023-02-23T20:12:55.6361362-06:00",
+    "release_date": "2023-02-26T15:55:22.5725654-06:00",
     "kind": "metapackage"
 }

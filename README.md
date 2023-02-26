@@ -17,13 +17,15 @@ The hope is that this repo will become obsolete in the near future. In the meanw
 
 ### Prerequisites
 
+Download the ZIP of this repo
+
 If you don't already have CKAN, download it [here](https://github.com/KSP-CKAN/CKAN/releases).
 
 This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work on Linux (for example Parallax).
 
 ### Add your game instance
 
-Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in ckan, or wherever you store your KSP(2)
+Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in ckan, or wherever you store your KSP(2). I reccomend to make a copy of your current install and call it something like "Kerbal Space Program Too." This makes it easier to try diffrent things.
 
 ### Setup and install
 
