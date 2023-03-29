@@ -1,0 +1,25 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Kerbal-Space-Program",
+    "name": "installed-Kerbal Space Program",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance. For use with blackrack's volumetric clouds mod and a lot of RAM. (I've seen it eat 30GB before)",
+    "author": [
+        "qn"
+    ],
+    "version": "2023.03.29.01.28.48",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "release_date": "2023-03-28T20:28:48.0356926-05:00",
+    "kind": "metapackage"
+}

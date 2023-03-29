@@ -1,9 +1,9 @@
 
 # Comparison Table of KSP1 features to KSP2 features
 
-Each feature is rated from 0-5 using the developers' feature system in each game
+Each feature is rated from 0-5 using the developers' feature system in each game, sometimes it doesn't really apply so just throw in a number
 
-0. Does is exist?
+0. Does is exist? (leave it blank)
 1. Is it working?
 2. Is it stable?
 3. Is it performant?
@@ -14,14 +14,23 @@ This table is sorted in order of development priority for features missing in KS
 
 Feature | KSP1 | KSP2
 ---------|----------|---------
- Paint customization options |  | 5
+ Super Paint customization options |  | 5
  Brings you back to where you left off better |  | 2
  Magnetic boots |  | 5
- Better/new audio |  | 5
+ Better/new audio+adaptive |  | 5
+ See through glass |  | 5
+ Launch countdown |  | 5
+ Performance optimizations in loading times |  | 2
  Can bring KSC with you /j |  | 1
- Reentry heating | 5 |
+ Performance overall | 3 | 2
+ Better terrain | 5 | 3
+ The planets from orbit look great | 5 | 5
  Procedural wings | 5 | 5
- Maneuver system/interplanetary planner | 4 | 1
- Performance optimizations and loading| 2 |
+ Maneuver system/interplanetary planner/pinning | 4 | 1
+ Detailed stage info (TWR)/dV info by planet/alt | 5 | 1
+ UI overall | 5 | 2
+ Autostrut | 5 |
+ Cheat menu | 5 |
+ Reentry heating | 5 |
 
-Please help expand this list.
+Please help expand (and fix-in your almighty opinion) this list.

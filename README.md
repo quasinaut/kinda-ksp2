@@ -21,19 +21,23 @@ Download the ZIP of this repo
 
 If you don't already have CKAN, download it [here](https://github.com/KSP-CKAN/CKAN/releases).
 
-This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work on Linux (for example Parallax).
+This repo assums you are running Windows, as I have only tested this on Windows. Some mods may not work fully on Linux (for example Parallax last time I tried it), and I can't test macOS.
 
 ### Add your game instance
 
-Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in ckan, or wherever you store your KSP(2). I reccomend to make a copy of your current install and call it something like "Kerbal Space Program Too." This makes it easier to try diffrent things.
+Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in CKAN, or wherever you store your KSP(2). I reccomend to make a copy of your current install and call it something like "Kerbal Space Program Too." This makes it easier to try different things.
 
 ### Setup and install
 
 Go to settings->compatible game versions and select all versions down to 1.3
-Go to file->install from .ckan and select the file in this repo
+Go to file->install from .CKAN and select the file in this repo
 
 There's corruption in the zipped build of extraplanetary launchpads that makes CKAN unable to install it, instead download the zip from <http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.3.zip> and skip the corrupted file when you unzip
 Then copy+paste it into the GameData directory under your KSP installation
+
+### Optional: more buildings and launch sites
+
+If you want more buildings and launch sites you can use a combo of Kerbal Konstructs and Kerbin Side Remastered which you can search for and install in CKAN. Kerbin Side Remastered will however give you a warning every time you open the game that it's not compatible with this version-something probably isn't but it works for me so far.
 
 ### Optional: multiplayer
 
@@ -62,3 +66,4 @@ Note:
 2. I did not include Orion drives by RoverDude because it does not integrate well into the resource system. This is potentially an easy fix in a patch to change the fuel to something from FFT, or, for more realism an ISRU that creates bomb pellets from Enr U.
 3. I did not include tweakscale because I often find it to be buggy, and it breaks balance, in that too much scaling creates OP engines
 4. This is not meant to be a full list of everything you need, please submit a pull request to improve it.
+5. Disable life on Eve with [this](https://drive.google.com/file/d/16-nTUbRgQescq4ajQtka1cJnaOzPcgPy/view) patch
