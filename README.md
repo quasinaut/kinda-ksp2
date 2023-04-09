@@ -52,7 +52,9 @@ Then copy+paste it into the GameData directory under your KSP installation
 
 ### Recoloring
 
-Follow the instructions [here](https://forum.kerbalspaceprogram.com/index.php?/topic/174188-112x-textures-unlimited-recolour-depot/) to add the ability to recolor stock parts to your game.
+IMPORTANT: It seems this gets rid of your IVA view, not sure why this is and do not have time to debug it/do a good bug report so if you want recoloring you're stuck with it for now.
+
+Follow the instructions [here](https://forum.kerbalspaceprogram.com/index.php?/topic/174188-112x-textures-unlimited-recolour-depot/) to add the ability to recolor stock parts to your game. Does not appear to be on CKAN.
 
 ### Optional: multiplayer
 
