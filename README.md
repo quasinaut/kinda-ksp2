@@ -9,9 +9,24 @@
 
 ## Prologue
 
-This repo is dedicated to a set of resources that will attempt to make KSP1 resemble the end of the early access road map promised version of KSP2 as near as possible. This exists because many are unwilling/unable to fork over the 50$ for KSP2 yet due to absurd system requirements or not wishing to buy on promises.
+This repo is basically a modpack but hopes to be dedicated to a set of resources that will attempt to make KSP1 resemble the end of the early access road map promised version of KSP2 as near as possible.
+
+This exists because many are unwilling/unable to fork over the 50$ for KSP2 yet due to absurd system requirements or not wishing to buy on promises.
 That is not to say that there have been no steps forward with KSP2-there absolutely have-but rather a comment on how spoiled we are with such an amazing modding community surrounding the game.
 The hope is that this repo will become obsolete in the near future. In the meanwhile I tried making it as accessible as possible and am looking for contributions, both to the mod list, to the current source for the mods, and potentially for new mods to enhance the game play experience even further.
+
+## Features in modpack
+
+* Only about 11,000 patches, and without the planet packs, has better system requirements than KSP2! Likely GTX 970/1060 for 1080p, though I have not tested it.
+* More buildings and launch sites thanks to Kerbal Konstructs & Kerbinside
+* Recoloring parts thanks to TURD
+* Beautiful visuals
+  * Various thanks to Environmental Visual Enhancement (EVE) and Astronomer's Visual Pack (AVP), Textures Unlimited Special Effects (TUFX), Waterfall, Planetshine, etc (clouds, atmospheric scattering, post processing, engine effects, etc)
+  * Terrain scattering thanks to Parallax (grass, trees, rocks, etc)
+* More star systems thanks to Galaxies Unbound
+* Interstellar-rated engines and resource system thanks to Far Future Technologies
+* Useful kolonization resource chains thanks to Modular Kolonization Systems, Planetary Base Systems, & Extraplanetary Launchpads
+* Much, much more
 
 ## Installing the mods
 
@@ -25,7 +40,7 @@ This repo assums you are running Windows, as I have only tested this on Windows.
 
 ### Add your game instance
 
-Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in CKAN, or wherever you store your KSP(2). I reccomend to make a copy of your current install and call it something like "Kerbal Space Program Too." This makes it easier to try different things.
+Add your game instance, either where steam installed it by right clicking on the game->manage->browse local files, and selecting the BuildID64 in that directory in CKAN, or wherever you store your KSP(2). I recommend to make a copy of your current install and call it something like "Kerbal Space Program Too" This makes it easier to try different things.
 
 ### Setup and install
 
@@ -35,9 +50,9 @@ Go to file->install from .CKAN and select the file in this repo
 There's corruption in the zipped build of extraplanetary launchpads that makes CKAN unable to install it, instead download the zip from <http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.3.zip> and skip the corrupted file when you unzip
 Then copy+paste it into the GameData directory under your KSP installation
 
-### Optional: more buildings and launch sites
+### Recoloring
 
-If you want more buildings and launch sites you can use a combo of Kerbal Konstructs and Kerbin Side Remastered which you can search for and install in CKAN. Kerbin Side Remastered will however give you a warning every time you open the game that it's not compatible with this version-something probably isn't but it works for me so far.
+Follow the instructions [here](https://forum.kerbalspaceprogram.com/index.php?/topic/174188-112x-textures-unlimited-recolour-depot/) to add the ability to recolor stock parts to your game.
 
 ### Optional: multiplayer
 
@@ -51,14 +66,17 @@ Put [this](flag/underconstruction.png) flag in your KSP(2) directory under GameD
 
 ### Other
 
+Please consider a donation to the creators of these mods if you are using them as a replacment for KSP2.
+
+If you want the volumetric clouds you can go to [Blackrack's Patreon](https://www.patreon.com/blackrack/posts).
+
 TODOs:
 
-- [ ] Wiki of the wikis to actually know how to play this heavily modified version of the game
-- [ ] Someone should make a better flag, I made this in like three minutes. I will attach and link xcf from GIMP, the font is nasalization.
-- [ ] Make 'optimized' version (less mods)-or try and improve some of the mods for lower-spec laptops
+- [ ] List of mod devs and donate links
+- [ ] List of resources to actually know how to play this heavily modified version of the game
+- [ ] Make 'optimized' version (less mods)-or try and improve/try some of the mods for lower-spec laptops
 - [ ] Record and compare to the sequel (performance, features, bugs) to see when this will become obsolete
-- [ ] Make more mods to replicate the features of KSP2 as close as possible/we want to (like paint jobs, if that is even possible)
-- [ ] More screenshots of what KSP1 can be (I used [this](https://youtu.be/xlrgSH9JIp0) video for ideas)
+- [ ] Make more mods to replicate the features of KSP2 as close as possible/we want to
 
 Note:
 

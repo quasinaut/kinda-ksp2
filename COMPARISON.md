@@ -14,14 +14,13 @@ This table is sorted in order of development priority for features missing in KS
 
 Feature | KSP1 | KSP2
 ---------|----------|---------
- Super Paint customization options |  | 5
+ Super Paint customization options | 4 | 5
  Brings you back to where you left off better |  | 2
  Magnetic boots |  | 5
  Better/new audio+adaptive |  | 5
  See through glass |  | 5
- Launch countdown |  | 5
+ Cute but sometimes annoying launch countdown |  | 5
  Performance optimizations in loading times |  | 2
- Can bring KSC with you /j |  | 1
  Performance overall | 3 | 2
  Better terrain | 5 | 3
  The planets from orbit look great | 5 | 5
