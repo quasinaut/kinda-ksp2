@@ -26,6 +26,7 @@
             - [Disable parallax life on Eve](#disable-parallax-life-on-eve)
             - [Custom patches](#custom-patches)
                 - [Make FFT usable on interstellar scales](#make-fft-usable-on-interstellar-scales)
+                - [Alternatively, use Interstellar Extended](#alternatively-use-interstellar-extended)
             - [Documentation](#documentation)
         - [Optional/experimental: multiplayer](#optionalexperimental-multiplayer)
         - [Optional: installing the flag](#optional-installing-the-flag)
@@ -135,10 +136,15 @@ Unzip and place [this](https://cdn.discordapp.com/attachments/859062295698997289
 - Stock Convert-O-Tron: Uraninite -> EnrU
 - Extra: Disable specialist requirement on converters on (hopefully) all parts that are drills or converters.
 
+##### Alternatively, use Interstellar Extended
+
+Find more details [here](https://forum.kerbalspaceprogram.com/topic/173818-181-1122-ksp-interstellar-extended-1295-release-thread/). Beware it has more komplications!
+
 #### Documentation
 
 - USI: There's some great documentation [here](https://github.com/UmbraSpaceIndustries/MKS/wiki), there's also integrated information in the integrated KSPedia.
 - GU: Don't know where to go? Konsult your star chart, now avalible [here](https://github.com/UmbraSpaceIndustries/MKS/wiki).
+- KSP IE wiki is [here](https://github.com/sswelm/KSP-Interstellar-Extended/wiki).
 - Please help me add more...
 
 ### Optional/experimental: multiplayer
