@@ -25,6 +25,7 @@
             - [Extraplanetary Launchpads](#extraplanetary-launchpads)
             - [Disable parallax life on Eve](#disable-parallax-life-on-eve)
             - [Custom patches](#custom-patches)
+                - [Make FFT usable on interstellar scales](#make-fft-usable-on-interstellar-scales)
             - [Documentation](#documentation)
         - [Optional/experimental: multiplayer](#optionalexperimental-multiplayer)
         - [Optional: installing the flag](#optional-installing-the-flag)
@@ -121,6 +122,18 @@ Copy-paste the `_Scatters` folder in [this](https://drive.google.com/file/d/16-n
 
 1. To include water in the production chain of NSW instead of just ore (makes more sense, and higher mass yield) put `patches/fft-nuclear-smelter-375-1.cfg` in `GameData/FarFutureTechnologies/Parts/Resources`.
 2. To have the ability to produce LH2 from water put `patches/LH2-conversion.cfg` in `GameData/`
+
+##### Make FFT usable on interstellar scales
+
+Unzip and place [this](https://cdn.discordapp.com/attachments/859062295698997289/870368460251742248/PatchEmporium.zip) patch written by Hosk in GameData for better kompatibility with GU.
+
+- Calvin's FFT Isp fixes.
+- Calvin's Kerbal Atomics Isp fix (just the 2.5m GCNTR).
+- CryoTanks fusion fuel options (D, He3, D+He3).
+- AntiMatter tank buff (hold 3x as much, require 2x as much cooling).
+- BCAM propellant ratio fix.
+- Stock Convert-O-Tron: Uraninite -> EnrU
+- Extra: Disable specialist requirement on converters on (hopefully) all parts that are drills or converters.
 
 #### Documentation
 
