@@ -1,0 +1,121 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Kerbal-Space-Program-Too",
+    "name": "installed-Kerbal Space Program Too",
+    "abstract": "A list of modules installed on the Kerbal Space Program Too KSP instance. DANGER! May not install properly",
+    "author": [
+        "quasinaut"
+    ],
+    "version": "2023.08.23.12.28.48",
+    "ksp_version_min": "1.3",
+    "ksp_version_max": "1.12",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "AT-Utils"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "BetterCrewAssignment"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "BurnTogetherContinued"
+        },
+        {
+            "name": "CameraFocusChanger"
+        },
+        {
+            "name": "CameraTools"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityDeltaVMaps"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EvaFollower"
+        },
+        {
+            "name": "GPWS"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KVVContinued"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "PersistentThrust"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "Shabby"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "VesselMoverContinued"
+        },
+        {
+            "name": "xScienceContinued"
+        }
+    ],
+    "release_date": "2023-08-23T04:28:48.8891566-08:00",
+    "kind": "metapackage"
+}

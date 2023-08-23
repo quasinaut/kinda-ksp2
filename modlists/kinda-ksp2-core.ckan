@@ -1,0 +1,217 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Kerbal-Space-Program-Too",
+    "name": "installed-Kerbal Space Program Too",
+    "abstract": "A list of modules installed on the Kerbal Space Program Too KSP instance. DANGER! May not install properly",
+    "author": [
+        "quasinaut"
+    ],
+    "version": "2023.08.23.12.28.48",
+    "ksp_version_min": "1.3",
+    "ksp_version_max": "1.12",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "AsphaltTiles"
+        },
+        {
+            "name": "AsphaltTilesWelded"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "Benjee10Suits"
+        },
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "ConformalDecals"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "ExtraplanetaryLaunchpads-NoMoreProduction"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "GroundConstruction"
+        },
+        {
+            "name": "GroundConstruction-Core"
+        },
+        {
+            "name": "HabTechProps"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "Heisenberg"
+        },
+        {
+            "name": "Heisenberg-PlayMode-Pristine"
+        },
+        {
+            "name": "HooliganLabsAirships"
+        },
+        {
+            "name": "INSTANTIATOR"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KerBalloons"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "KerbinSideRemastered"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Konstruction"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOS-Astrogator"
+        },
+        {
+            "name": "kOS-KerbalEngineer"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "SpaceXSuits"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "USI-Core"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+    ],
+    "release_date": "2023-08-23T04:28:48.8891566-08:00",
+    "kind": "metapackage"
+}
